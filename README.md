@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harry5147f
+- 👋 Hi, I’m Bishal Sunar
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on ...
