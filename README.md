@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bishal Sunar
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning C++ and Python
+- 🎓 I am currently in BIT
 - 📫 Linkedin: www.linkedin.com/in/bishal-sunar-820733224
 - 😄 Pronouns: He/Him/Mr
 - ⚡ Fun fact: Computers and machine are made to save humans time not waste it. 
