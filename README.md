@@ -7,13 +7,9 @@
 - ⚡ Fun fact: Computers and machine are made to save humans time not waste it.
 - 
 ### Thank you for viewing my profile---
-name: @Harry5147f-coding-skill
-description: "GitHub profile skill from @Harry5147f. Use it when the task would benefit from mimicking this developer's repo choices, coding style, and implementation techniques."
----
 
-### What they tend to build
+### What I tend to build
 - Small learning-oriented projects rather than large products.
-- Repos are organized by topic/language: HTML sites, C++ practice, Java mini-projects, Python/AI notebooks, data science cleanup/import work, and Pictoblox/Quarky projects.
 - Expect “exercise” or “first project” code, where clarity and progression matter more than abstraction or production polish.
 - They seem to like documenting intent briefly in the repo name/description, so keep code easy to scan and understand.
 
