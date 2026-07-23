@@ -44,18 +44,18 @@
 
 ## Repo Map
 
-- [Harry5147f/html_files](https://github.com/Harry5147f/html_files): No need to see this. Just see other (0 stars)
-- [Harry5147f/Pictoblox](https://github.com/Harry5147f/Pictoblox): Projects related to pictoblox and quarky (0 stars)
-- [Harry5147f/Modular-programming-in-cpp](https://github.com/Harry5147f/Modular-programming-in-cpp): I am putting my learning in modular programming in this repo (0 stars, C++)
-- [Harry5147f/Data_science](https://github.com/Harry5147f/Data_science): Cleaning and importing datasets (0 stars)
-- [Harry5147f/Website](https://github.com/Harry5147f/Website): Html files (0 stars, HTML)
-- [Harry5147f/Portfolio](https://github.com/Harry5147f/Portfolio): Html file for my portfolio page (0 stars, HTML)
-- [Harry5147f/javaSmall](https://github.com/Harry5147f/javaSmall): Small java projects (0 stars, Java)
-- [Harry5147f/Cpp-files](https://github.com/Harry5147f/Cpp-files): All my C++ projects (0 stars, C++)
-- [Harry5147f/Java](https://github.com/Harry5147f/Java): My java projects (0 stars)
-- [Harry5147f/AI](https://github.com/Harry5147f/AI): My python and AI projects (0 stars, Jupyter Notebook)
-- [Harry5147f/Harry5147f](https://github.com/Harry5147f/Harry5147f): Config files for my GitHub profile. (0 stars, topics: config, github-config)
+- [Harry5147f/Pictoblox](https://github.com/Harry5147f/Pictoblox): Projects related to pictoblox and quarky 
+- [Harry5147f/Modular-programming-in-cpp](https://github.com/Harry5147f/Modular-programming-in-cpp): I am putting my learning in modular programming in this repo
+- [Harry5147f/Data_science](https://github.com/Harry5147f/Data_science): Importing and Cleaning datasets.  
+- [Harry5147f/Website](https://github.com/Harry5147f/Website): Html files 
+- [Harry5147f/Portfolio](https://github.com/Harry5147f/Portfolio): Html file for my portfolio page (Still incomplete)
+- [Harry5147f/javaSmall](https://github.com/Harry5147f/javaSmall): Small java projects (College learning and projects)
+- [Harry5147f/Cpp-files](https://github.com/Harry5147f/Cpp-files): All my C++ projects (Made simple yet interesting projects)
+- [Harry5147f/Java](https://github.com/Harry5147f/Java): My java projects (Self learning)
+- [Harry5147f/AI](https://github.com/Harry5147f/AI): My python and AI projects 
+- [Harry5147f/Harry5147f](https://github.com/Harry5147f/Harry5147f): Config files for my GitHub profile. 
 - [Harry5147f/First_project](https://github.com/Harry5147f/First_project): My first ever project. (0 stars, HTML)
+- - [Harry5147f/html_files](https://github.com/Harry5147f/html_files): There is no benefit of viewing this. 
 
 ## How To Use This Skill
 
